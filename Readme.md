@@ -51,8 +51,5 @@ This repository includes:
 ### 🤝 Contributions & Use
 The codebase and methodology are open for use and extension in other regions or applications. This is part of a broader effort to make climate and urban planning data more accessible and actionable.
 
----
 
-### 📫 Contact
-For questions, contributions, or collaborations, please reach out via [your contact info or GitHub profile].
 
